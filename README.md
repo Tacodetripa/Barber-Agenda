@@ -73,12 +73,9 @@ El SuperAdmin tiene control total sobre el sistema:
   - Datos personales (nombre, apellido, email)
   - Asignación a barbería específica
   - Creación automática de cuenta de acceso
-  - Email de bienvenida con credenciales
 
 - 📋 **Listar barberos**:
-  - Filtro por barbería
-  - Ver barbería asignada
-  - Estado activo/inactivo
+  - Lista de barberos existentes
 
 - ✏️ **Editar barberos**:
   - Modificar información personal
