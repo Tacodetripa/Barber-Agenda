@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "591466119766",
+    "project_id": "barber-agenda-b3142",
+    "storage_bucket": "barber-agenda-b3142.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591466119766:android:42c02d8d24f0812fc5f1f7",
+        "android_client_info": {
+          "package_name": "com.aboytes.barber_agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591466119766-e0uq4pjctblgnmr905nk6cmr8gr5foa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aboytes.barber_agenda",
+            "certificate_hash": "8a2d2a5463bc0b1aeae9cff057956a392ce0880a"
+          }
+        },
+        {
+          "client_id": "591466119766-pgn0bmmg501n0peo67cr8b2u736luegh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYFBkFunqFl72Ja-EElSga4NWYhc7DXtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591466119766-pgn0bmmg501n0peo67cr8b2u736luegh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "591466119766-3p6aocph2ac295jomsa1kn725t2gqvtg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aboytes.barberAgenda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
