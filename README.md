@@ -28,7 +28,7 @@ Las barberías tradicionalmente operan con métodos desorganizados:
 ## 🎥 Video Demostración
 
 ### Pruebas Unitarias
-> 📹 **[Ver video de pruebas unitarias aquí]** ([LINK_DEL_VIDEO_AQUI](https://drive.google.com/drive/folders/14YRmPp877Tg7JD9prlaKa3WN-i9Nl-fl?usp=sharing))
+> 📹 **[[Ver video de pruebas unitarias aquí]](https://drive.google.com/drive/folders/14YRmPp877Tg7JD9prlaKa3WN-i9Nl-fl?usp=sharing)**
 
 ---
 
