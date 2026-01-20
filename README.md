@@ -316,58 +316,6 @@ lib/
 └── main.dart                         #Punto de entrada
 ```
 
-### Base de Datos (Firestore)
-
-#### Colección: `users`
-```json
-{
-  "uid": "string",                    // ID único de Firebase Auth
-  "email": "string",                  // Email del usuario
-  "firstName": "string",              // Nombre
-  "lastName": "string",               // Apellido
-  "nickname": "string?",              // Apodo (opcional)
-  "role": "string",                   // "client", "barber", "superadmin"
-  "barbershopId": "string?",          // ID de barbería (solo barberos)
-  "createdAt": "timestamp"            // Fecha de registro
-}
-```
-
-#### Colección: `barbershops`
-```json
-{
-  "id": "string",                     // ID único
-  "name": "string",                   // Nombre de la barbería
-  "address": "string",                // Dirección
-  "phone": "string",                  // Teléfono
-  "city": "string",                   // Ciudad
-  "latitude": "double",               // Coordenada GPS
-  "longitude": "double",              // Coordenada GPS
-  "openingTime": "string",            // Hora apertura (ej: "09:00")
-  "closingTime": "string",            // Hora cierre (ej: "18:00")
-  "createdAt": "timestamp"            // Fecha de creación
-}
-```
-
-#### Colección: `appointments`
-```json
-{
-  "id": "string",                     // ID único
-  "clientId": "string",               // ID del cliente
-  "clientName": "string",             // Nombre completo del cliente
-  "barberId": "string",               // ID del barbero
-  "barberName": "string",             // Nombre del barbero
-  "barbershopId": "string",           // ID de la barbería
-  "barbershopName": "string",         // Nombre de la barbería
-  "appointmentDate": "timestamp",     // Fecha y hora de la cita
-  "appointmentTime": "string",        // Hora (ej: "10:00")
-  "status": "string",                 // "pending", "confirmed", "completed", "cancelled"
-  "conversationTopics": "string?",    // Temas de conversación (opcional)
-  "notes": "string?",                 // Notas adicionales (opcional)
-  "createdAt": "timestamp",           // Fecha de creación
-  "updatedAt": "timestamp"            // Última actualización
-}
-```
-
 ---
 
 ## 🔄 Flujos de Uso
