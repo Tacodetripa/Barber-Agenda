@@ -637,7 +637,6 @@ buildscript {
 - [ ] Modo oscuro
 
 ### Mediano Plazo
-- [ ] Integración con Google Maps (barberías cercanas)
 - [ ] Pagos integrados (Stripe/PayPal)
 - [ ] Chat entre cliente y barbero
 - [ ] Recordatorios automáticos por WhatsApp/SMS
