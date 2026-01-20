@@ -150,7 +150,6 @@ Los barberos tienen acceso a funcionalidades enfocadas en su trabajo diario:
 - 📋 **Ver detalles completos**:
   - Datos del cliente (nombre, apellido, apodo)
   - Temas de conversación sugeridos
-  - Servicios solicitados
   - Notas adicionales
   - Hora de creación de la cita
 
@@ -159,7 +158,6 @@ Los barberos tienen acceso a funcionalidades enfocadas en su trabajo diario:
   - Formulario rápido
   - Nombre del cliente
   - Seleccionar horario disponible
-  - Servicios a realizar
   - Notas opcionales
   - Creación inmediata
 
@@ -170,10 +168,6 @@ Los barberos tienen acceso a funcionalidades enfocadas en su trabajo diario:
 
 #### Perfil del Barbero
 - 👤 Ver información personal
-- 🏢 Barbería asignada
-- 📍 Dirección de trabajo
-- 📞 Teléfono de contacto
-- ✏️ Editar información (nombre, email)
 
 ### 👤 Panel del Cliente
 Los clientes tienen una experiencia simple y directa:
@@ -199,7 +193,6 @@ Los clientes tienen una experiencia simple y directa:
 - 📅 **Seleccionar fecha**:
   - Calendario visual
   - Solo fechas futuras habilitadas
-  - Indicador de disponibilidad
 
 - ⏰ **Seleccionar hora**:
   - Solo horarios disponibles mostrados
